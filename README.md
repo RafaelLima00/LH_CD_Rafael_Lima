@@ -36,16 +36,16 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ```bash
 .
 ├── data/
-│   └── teste_indicium_precificacao.csv 
+│   └── desafio_idicium_imdb.csv 
 │
 ├── models/
 │   └── modelo.pkl                     # O cérebro da operação!
 │
 ├── notebooks/
-│   └── LH_CD_RafaelBarbosaLima (4).ipynb # Todo o processo de EDA e modelagem.
+│   └── LH_CD_Rafael_Barbosa_Lima.ipynb # Todo o processo de EDA e modelagem.
 │
 ├── src/
-│   └── lh_cd_rafaelbarbosalima (3).py   #
+│   └── pipeline.py   #
 │
 ├── README.md                          # Você está aqui! 👉 O manual de instruções.
 └── requirements.txt                   # A lista de compras do projeto para o pip não reclamar.
