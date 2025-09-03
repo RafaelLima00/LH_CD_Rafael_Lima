@@ -122,4 +122,5 @@ exemplo_df = pd.DataFrame([exemplo])
 previsao_nota = loaded_pipeline.predict(exemplo_df)
 print("\n--- Previsão com o Pipeline ---")
 print(f"Nota IMDB Prevista: {previsao_nota[0]:.2f}")
+
 ```
